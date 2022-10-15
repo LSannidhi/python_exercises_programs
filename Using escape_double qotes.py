@@ -1,0 +1,6 @@
+print("\"I'm\"")
+print('', end='"')
+print("\"learning\"", end='"')
+print()
+print('', end='"""')
+print('Python', end='"""')
